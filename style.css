@@ -830,10 +830,6 @@ body {
     margin-right: 10px;
 }
 
-.price {
-    /* float: right; */
-}
-
 .content-footer {
     border-top: 1px solid #eee;
     display: flex;
